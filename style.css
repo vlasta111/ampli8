@@ -1,0 +1,68 @@
+/*Thin 100*/
+/*Extra-light 200*/
+
+/*Light 300*/
+
+/*Regular 400*/
+
+/*Medium 500*/
+
+/*Semi-bold 600*/
+
+/*Bold 700*/
+
+/*Extra-bold 800*/
+
+/*Black 900*/
+
+
+
+@font-face {
+    font-family: 'Grenze Gotisch';
+    src: url('GrenzeGotisch-Regular.woff2') format('woff2'),
+        url('GrenzeGotisch-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+h1 {
+    font-family: 'Grenze Gotisch', Arial, sans-serif;
+    color: #34547A;
+    font-size: 40px;
+    text-transform: uppercase;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('Roboto-Regular.woff2') format('woff2'),
+        url('Roboto-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+h2 {
+    font-family: 'Roboto', Arial, sans-serif ;
+    color: cadetblue;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+
+@font-face {
+    font-family: 'Revalia';
+    src: url('Revalia-Regular.woff2') format('woff2'),
+        url('Revalia-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+h3 {
+    font-family: 'Revalia', Arial, sans-serif;
+    color: lightsteelblue;
+    font-size: 20px;
+    text-transform: lowercase;
+}
